@@ -30,9 +30,9 @@ for i in range(n): # обход каждой строки
 for i in range(n):
     for j in range(m):
         if a[i][j] == - 1:
-            print('*', end='  ') # тут мина
+            print('*', end='') # тут мина
         elif a[i][j] == 0:
-            print('.', end='  ') # тут пусто
+            print('.', end='') # тут пусто
         else:
-            print(a[i][j], end='  ') # тут пусто, но рядом есть мины
+            print(a[i][j], end='') # тут пусто, но рядом есть мины
     print() # переход на следующий ряд (строчку)
