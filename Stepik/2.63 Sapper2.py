@@ -11,7 +11,7 @@ for i in range(n):
             for di in range(-1,2):
                 for dj in range(-1,2):
                     ai = i + di
-                    aj = j + di
+                    aj = j + dj
                     # (ai, aj)
                     if 0 <= ai < n and 0 <= aj <m and a[ai][aj] == -1:
                         a[i][j] +=1
