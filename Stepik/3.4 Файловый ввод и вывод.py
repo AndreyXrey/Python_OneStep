@@ -1,6 +1,6 @@
 import os.path
 
-inf = open('in.txt', 'r') # first way прочитать
+inf = open('3.44in.txt', 'r') # first way прочитать
 s1 = inf.readline() # читает линию
 s2 = inf.readline()
 inf.close()
@@ -22,11 +22,11 @@ with open('input.txt') as inf:
         line = line.strip()
         print(line)
 
-ouf = open('in.txt', 'w') # first way записать
+ouf = open('3.44in.txt', 'w') # first way записать
 ouf.write(' акой-то тексекс)\n')
 ouf.write(str(25))
 ouf.close()
 
-with open('out.txt', 'w') as ouf:
+with open('3.44out.txt', 'w') as ouf:
     ouf.write(' акой-то текст\n')
     ouf.write(str(25))

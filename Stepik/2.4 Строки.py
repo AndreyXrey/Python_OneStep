@@ -1,4 +1,4 @@
-inf = open('in.txt', 'r')
+inf = open('3.44in.txt', 'r')
 a = str(inf.readline())  # читает линию
 inf.close()
 
