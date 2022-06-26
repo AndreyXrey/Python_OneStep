@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9c15fe-11ba-4ed5-a6b8-94a8084d75a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WORK/v/tisgrabber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Documentation.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Documentation/db using.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Documentation/db_formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Documentation/people.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Video/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Video/database_sqlite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Video/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Peewee/Video/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/1.12.3 if, float, операторы.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/1.12.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.3 for i in range(n).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.3 list comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.4 Строки.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.5 list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.5 списки, сумма соседних.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.51 СПИСКИ, вывод повторяющихся.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.61 Минимум и максимум.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.63 Sapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.63 Sapper2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.68 цикл.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.70 списки в списках, сумма соседних.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/2.71  ЗМЕЙКА.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.2.5 Словари.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.2.6  Словари.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.4 Файловый ввод и вывод.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.42  декодер 2.4 строк .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.44 отбор оценок.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.44in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.44out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.60 requests We are the chapmions...py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.71 Футбол злосчастный.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.72 Словарь для декодера.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.73 поиск ошибок.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.74 Черепашка.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.75 in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.75 out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.75 Среднее класса.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.80 NumPy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik/3.90 Matplotlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-01/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-01/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/botuploads.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/db_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/files/very important text file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/ogg/Rick_Astley_-_Never_Gonna_Give_You_Up.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/pics/kitten0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/pics/kitten1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/pics/kitten2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/pics/kitten3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/videoNotes/cute-puppy.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/demo-media/videos/hedgehog.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-02/upload_my_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-03/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-03/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-03/messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-03/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-04/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-04/messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-04/payments-minimum_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-04/payments_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-05/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-05/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiogram-lessons-master/lesson-05/keyboards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot1 KeyButtons/bot1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot1 KeyButtons/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot1 KeyButtons/markups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot2 with qiwi/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot2 with qiwi/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot2 with qiwi/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot2 with qiwi/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot2 with qiwi/markups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/admin by db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/admin by set().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/admin(черновик).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/bot3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Admin/markups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Kirill RTestProject/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Kirill RTestProject/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Kirill RTestProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Kirill RTestProject/markups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot3 Kirill RTestProject/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/Specs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/bot0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/botChannelManeger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/forThought1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/interf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/По фану/nah.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ApYC36equDgIasdtay7UlZMCGq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Учеба" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9c15fe-11ba-4ed5-a6b8-94a8084d75a4" name="Changes" comment="" />
+      <created>1655707868296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655707868296</updated>
+      <workItem from="1655707871179" duration="26000" />
+      <workItem from="1655793015402" duration="79000" />
+    </task>
+    <servers />
+  </component>
+</project>
